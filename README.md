@@ -14,3 +14,23 @@ x
 ![螢幕擷取畫面 2022-04-14 231730](https://user-images.githubusercontent.com/69074874/163421114-4b5f22eb-1f9d-419a-a031-a678140884bc.png)
 
 Here we assume x is an integer. You are now asked to write a Recursive RISC-V Assembly Programming to calculate the damage of sun breathing. The program must use recursion as described above. It should only print the final value of F(x). The basic range of x is set x ≦ 99 (total 100 times).
+
+
+---------------------------------------------------------------------
+
+Following is the input and output
+
+
+![螢幕擷取畫面 2022-04-14 233224](https://user-images.githubusercontent.com/69074874/163425636-617d3d06-5c2e-41ba-96df-c871e88b6318.png)
+
+----------------------------------------------------------------------
+
+
+![螢幕擷取畫面 2022-04-14 235600](https://user-images.githubusercontent.com/69074874/163427984-b0b636b3-8c47-4cc9-8f47-9f4328d808ec.png)
+![螢幕擷取畫面 2022-04-14 235619](https://user-images.githubusercontent.com/69074874/163427993-cb3ccfb6-3f54-4117-9409-64a854e09b37.png)
+![螢幕擷取畫面 2022-04-14 235637](https://user-images.githubusercontent.com/69074874/163427999-75d01d1d-d7a4-4bae-8a78-ba26bd53d25c.png)
+![螢幕擷取畫面 2022-04-14 235652](https://user-images.githubusercontent.com/69074874/163428000-81698e24-04db-4b44-b8a6-f9dcc14a0bd0.png)
+--------------------------------
+以下是我的流程圖
+
+![螢幕擷取畫面 2022-04-14 235853](https://user-images.githubusercontent.com/69074874/163428293-90dd26c7-19a0-4f2c-b69b-e6b07a5925d7.png)
